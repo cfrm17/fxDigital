@@ -32,7 +32,7 @@ where   is the spot exchange rate and the perturbation on the spot rate   is set
 USD Delta =                                          (4)
 
 
-We created 24 test cases for FX Digital option (12 for direct quote and 12 for indirect quote) and the following tables summarize the results. The valuation date is September 1, 2004 for direct quote and August 31, 2004 for indirect quote.  The principal amount, Q, is 1,000,000 USD for both direct / indirect quotes. The same principal applies to other securities or derivatives, such as bond (see https://finpricing.com/lib/FiZeroBond.html)
+We created 24 test cases for FX Digital option (12 for direct quote and 12 for indirect quote) and the following tables summarize the results. The valuation date is September 1, 2004 for direct quote and August 31, 2004 for indirect quote.  The principal amount, Q, is 1,000,000 USD for both direct / indirect quotes. The same principal applies to other FX derivatives, such as accumulator (see https://finpricing.com/lib/FxAccumulator.html)
 
 	Direct Quote:
 	Base Currency: USD
